@@ -14,3 +14,5 @@ BRANCH, CHECKOUT, MERGE
 7) create a branch: git branch r-scripts
 8) switch from main to branch: git checkout r-scripts
 9) create a new r-script, add, commit it
+10) push to github: git push -u origin r-scripts
+
