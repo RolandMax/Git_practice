@@ -6,11 +6,13 @@ A repo to practice git
 3) Create a R project folder structure: data, scripts, outputs
 
 STAGE, COMMIT and PUSH
+
 4) stage all changes: git add . 
 5) commit all changes to head
 6) push changes to github: git push origin   
 
 BRANCH, CHECKOUT, MERGE
+
 7) create a branch: git branch r-scripts
 8) switch from main to branch: git checkout r-scripts
 9) create a new r-script, add, commit it
