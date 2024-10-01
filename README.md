@@ -16,3 +16,4 @@ BRANCH, CHECKOUT, MERGE
 9) create a new r-script, add, commit it
 10) push to github: git push -u origin r-scripts
 
+11) delete branch on local repo: git branch -d r-scripts
