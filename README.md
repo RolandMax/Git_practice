@@ -19,3 +19,4 @@ BRANCH, CHECKOUT, MERGE
 10) push to github: git push -u origin r-scripts
 
 11) delete branch on local repo: git branch -d r-scripts
+12) delete branch from github: git push origin --delete branch_name
