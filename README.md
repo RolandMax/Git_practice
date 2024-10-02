@@ -34,6 +34,8 @@ A repo to practice git
 18) In main change new_R_script: "8+9"
 19) add, commit
 20) try to merge main and conflict: git merge conflict
+21) Delete branch conflict: git branch -d conflict
+
 
 
 
