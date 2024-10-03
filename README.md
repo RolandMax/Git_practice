@@ -36,7 +36,7 @@ A repo to practice git
 20) try to merge main and conflict: git merge conflict
 21) Delete branch conflict: git branch -d conflict
 
-
+## BRANCH MANAGEMENT
 
 
 
