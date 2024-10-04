@@ -51,4 +51,16 @@ A repo to practice git
 25) git branch --no-merged all branches which are not yet merged into current branch
 26) branching w/ git rebase
 
+## UNDOING THINGS
+CHANGE, EXTEND A COMMIT
+git commit -m 'Initial commit'
+git add forgotten_file
+git commit --amend
+
+STAGING A FILE
+git reset HEAD filename.format
+
+UNMODIFIYING A MODIFIED FILE
+git checkout -- filename.format
+
 
