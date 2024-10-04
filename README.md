@@ -11,6 +11,13 @@ A repo to practice git
 5) commit all changes to head
 6) push changes to github: git push origin   
 
+## LOG THE COMMIT HISTORY
+
+- git log
+- git log p-2 shows the diffs between the last two commits
+- git log --stat
+- git log --pretty=oneline show all commits, each in one line
+
 ## BRANCH, CHECKOUT, MERGE
 
 7) create a branch: git branch r-scripts
