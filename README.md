@@ -36,8 +36,11 @@ A repo to practice git
 20) try to merge main and conflict: git merge conflict
 21) Delete branch conflict: git branch -d conflict
 
-## BRANCH MANAGEMENT
-
-
+## BRANCH MANAGEMENT 
+22) rename branch: git branch --move old_name new_name
+23) git branch --all  list all current branches
+24) git branch --merged  list all branches which are merged into current branch
+25) git branch --no-merged all branches which are not yet merged into current branch
+26) branching w/ git rebase
 
 
