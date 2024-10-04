@@ -17,6 +17,7 @@ A repo to practice git
 - git log p-2 shows the diffs between the last two commits
 - git log --stat
 - git log --pretty=oneline show all commits, each in one line
+- git log --graph showing graph of branch and merge history 
 
 ## BRANCH, CHECKOUT, MERGE
 
