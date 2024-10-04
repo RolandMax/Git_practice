@@ -24,3 +24,4 @@ crazy_function <- function(x){
 }
 
 crazy_function(4)
+
